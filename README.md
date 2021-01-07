@@ -13,4 +13,4 @@ proiect_v3_04.01.2021 : semantica + sintaxa.
                         | instructiunea switch + break
                         | struct.
                         
-proiect_FINAL_07.01.2021 : implementare a unui compilator pentru expresii aritmetice si booleene + certificarea acestora.
+proiect_FINAL_07.01.2021 : implementare a unor compilatoare pentru expresii aritmetice si booleene + certificarea acestora.
